@@ -1,0 +1,21 @@
+Other Expeditions
+=================
+
+.. toctree::
+   :maxdepth: 1
+
+   Paramore_1699-1700
+   Franklin_1775-85
+   Astrolabe_1785-87
+   Boussole_1785-88
+   First_fleet_1787-8
+   Naturaliste_1800-3
+   Investigator_1801-3
+   Beagle_1831-6
+   Favorite_1830-2
+   Astrolabe+Zelee_1837-40.rst
+   Alligator_1838-9
+   Vincennes_1838-42
+   Princess_louise_1849
+   Challenger_1872-6
+   
